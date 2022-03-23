@@ -14,7 +14,6 @@ Vibrating and animated heart shape with color text using html and css.
 
 	<div class="heart"></div><br><br>
 	
-	<h1 style="color: red">YOU</h1>
     <p>India</p>
 	<style >
 	p{
