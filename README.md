@@ -12,7 +12,7 @@ Vibrating and animated heart shape with color text using html and css.
 
 	<h1 style="color: red">I</h1><br><br>
 
-	<div class="heart"></div><br><br>
+	<div class="heart"></div><br>
 	
     <p>India</p>
 	<style >
